@@ -1,0 +1,14 @@
+John Smith
+johnaldsmith@gmail.com
+123-456-7890
+Student
+Male
+Password1!
+
+
+Smith John
+smithjohnald@gmail.com
+1234567890
+Doctor
+Male
+Password2@
